@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="pointerish | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> @pointerish
+<img align="left" alt="pointerish | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> @pointerish <br/>
 <img align="left" alt="Josias Alvarado | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> Josias Alvarado
 
 <br />
