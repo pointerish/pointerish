@@ -7,8 +7,12 @@
 
 ### Connect with me:
 
-<img align="left" alt="pointerish | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="Josias Alvarado | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> 
+<a href="https://twitter.com/pointerish">
+  <img align="left" alt="pointerish | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+</a>
+<a href="https://www.linkedin.com/in/josias-alvarado-80901878/">
+  <img align="left" alt="Josias Alvarado | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 <br />
 
