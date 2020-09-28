@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pointerish" alt="pointerish" /> </p>
+
 ### Hi there, I'm Josias Alvarado.
 
 
