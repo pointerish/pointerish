@@ -1,13 +1,16 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pointerish" alt="pointerish" /> </p>
-![Full Stack](https://img.shields.io/badge/Full-Stack-blue)
-![Ruby on Rail](https://img.shields.io/badge/RoR-red)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-
 ### Hi there, I'm Josias Alvarado.
 
 - Full Stack Developer with an inclination for everything backend
 - An always eager to learn individual
-- Musician and Chess enthusiast for fun.
+- Musician and Chess enthusiast depending on the mood.
+
+![Full Stack](https://img.shields.io/badge/Full-Stack-blue)
+![Ruby on Rail](https://img.shields.io/badge/RoR-red)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
+<img src="https://komarev.com/ghpvc/?username=pointerish" alt="pointerish" />
+<br />
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=pointerish&theme=blue-green)
 
 ### Connect with me:
 
