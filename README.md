@@ -14,12 +14,14 @@
 
 ### Connect with me:
 
-<a href="https://twitter.com/pointerish">
-  <img align="left" alt="pointerish | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
-</a>
-<a href="https://www.linkedin.com/in/josias-alvarado-80901878/">
-  <img align="left" alt="Josias Alvarado | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/josias-alvarado/">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/josias-alvarado/" alt="linkedin badge">
+  </a>
+  <a href="mailto:josiasjag@gmail.com">
+   <img src="https://img.shields.io/badge/Email%20-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge">
+  </a>
+ </p>
 
 <br />
 
