@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/josias-alvarado/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/josias-alvarado/" alt="linkedin badge">
   </a>
