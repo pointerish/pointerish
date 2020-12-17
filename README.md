@@ -1,4 +1,4 @@
-### Hi there, I'm Josias Alvarado.
+### Hi there, I'm Josias Alvarado. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - Full Stack Developer with an inclination for everything backend
 - An always eager to learn individual
