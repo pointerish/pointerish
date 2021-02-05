@@ -3,7 +3,7 @@
 - Full Stack Developer with an inclination for everything backend
 - An individual who's always eager to learn
 - Musician and chess enthusiast depending on the mood
-- I also run a website where I publish articles about things I find interesting [here](https://josias-alvarado.me).
+- I also run a [website](https://josias-alvarado.me) where I publish articles about things I find interesting.
 
 ![Full Stack](https://img.shields.io/badge/Full-Stack-blue)
 ![Ruby on Rail](https://img.shields.io/badge/RoR-red)
