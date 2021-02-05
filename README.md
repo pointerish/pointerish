@@ -2,7 +2,8 @@
 
 - Full Stack Developer with an inclination for everything backend
 - An individual who's always eager to learn
-- Musician and Chess enthusiast depending on the mood.
+- Musician and chess enthusiast depending on the mood
+- I also run a website where I publish articles about things I find interesting [here](https://josias-alvarado.me).
 
 ![Full Stack](https://img.shields.io/badge/Full-Stack-blue)
 ![Ruby on Rail](https://img.shields.io/badge/RoR-red)
@@ -14,6 +15,7 @@
 
 ### Connect with me:
 
+I'm always willing to meet other developers, send me an email or an invitation to connect!
 <p>
   <a href="https://www.linkedin.com/in/josias-alvarado/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/josias-alvarado/" alt="linkedin badge">
@@ -23,7 +25,7 @@
   </a>
  </p>
  
-### Languages and Tools:
+### Languages and Tools I know:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
