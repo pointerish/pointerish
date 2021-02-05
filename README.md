@@ -11,7 +11,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/pointerish.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/pointerish?tab=followers)
 <img src="https://komarev.com/ghpvc/?username=pointerish" alt="pointerish" />
 <br />
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=pointerish&theme=blue-green)
+[![Josias' github stats](https://github-readme-stats.vercel.app/api?username=pointerish&theme=blue-green)](https://github.com/pointerish/github-readme-stats)
 
 ### Connect with me:
 
