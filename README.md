@@ -3,6 +3,7 @@
 </h2>
 
 - Full Stack Developer with an inclination for everything backend
+- Big Python and Ruby fan, Rust programmer and AWS expert wannabe
 - An individual who's always eager to learn
 - Musician and chess enthusiast depending on the mood
 - I also run a [website](https://josias-alvarado.me) where I publish articles about things I find interesting.
