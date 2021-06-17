@@ -2,7 +2,7 @@
   Hi there, I'm Josias Alvarado. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h2>
 
-- Full Stack Developer with an inclination for everything backend
+- Backend Developer
 - Big Python and Ruby fan, Rust programmer and AWS expert wannabe
 - An individual who's always eager to learn
 - Musician and chess enthusiast depending on the mood
