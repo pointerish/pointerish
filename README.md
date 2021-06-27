@@ -3,7 +3,8 @@
 </h2>
 
 - Backend Developer
-- Big Python and Ruby fan, Rust programmer and AWS expert wannabe
+- Big Python, Ruby, and Elixir fan
+- AWS Enthusiast
 - An individual who's always eager to learn
 - Musician and chess enthusiast depending on the mood
 - I also run a [website](https://josias-alvarado.me) where I publish articles about things I find interesting.
