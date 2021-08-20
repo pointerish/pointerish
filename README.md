@@ -4,8 +4,7 @@
 
 - Backend Developer
 - Big Python, Ruby, and Elixir fan
-- AWS Enthusiast
-- An individual who's always eager to learn
+- AWS Enthusiast and soon an AWS Certified Developer
 - Musician and chess enthusiast depending on the mood
 - I also run a [website](https://josias-alvarado.me) where I publish articles about things I find interesting.
 
