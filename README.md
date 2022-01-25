@@ -32,5 +32,5 @@ I'm always willing to meet other developers, send me an email or an invitation t
 
 ### Working on:
 
-I'm currently working at [Legaroo](https://app.legaroo.com/) where I'm helping to build and maintain a legal assistance platform for travelers to feel supported wherever they go.
+I'm currently working at [Legaroo](https://app.legaroo.com/) where I'm helping to build and maintain a legal assistance platform for travelers to get legal support wherever they may roam. ;)
 </center>
