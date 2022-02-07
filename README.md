@@ -4,6 +4,7 @@
 <center>
 <li>Backend Developer</li>
 <li>Big Elixir and Python fan</li>
+<li>Doomed Emacs user</li>
 <li>AWS Enthusiast and soon-to-be AWS Certified Developer</li>
 <li>Musician and chess enthusiast depending on the mood</li>
 </br></br>
