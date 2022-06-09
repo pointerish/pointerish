@@ -3,7 +3,7 @@
 </h2>
 <center>
 <li>Backend Developer</li>
-<li>Big Elixir and Python fan</li>
+<li>Big Elixir and Erlang evangelist</li>
 <li>Doomed Emacs fanboy</li>
 <li>Musician and chess enthusiast depending on the mood</li>
 </br></br>
