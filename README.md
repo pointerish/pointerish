@@ -4,8 +4,7 @@
 <center>
 <li>Backend Developer</li>
 <li>Big Elixir and Python fan</li>
-<li>Doomed Emacs user</li>
-<li>AWS Enthusiast and soon-to-be AWS Certified Developer</li>
+<li>Doomed Emacs fanboy</li>
 <li>Musician and chess enthusiast depending on the mood</li>
 </br></br>
 
@@ -21,7 +20,7 @@
 
 ### Connect with me:
 
-I'm always willing to meet other developers, send me an email or an invitation to connect!
+I'm always willing to meet other people, send me an email or an invitation to connect!
 <p>
   <a href="https://www.linkedin.com/in/josias-alvarado/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/josias-alvarado/" alt="linkedin badge">
@@ -33,5 +32,5 @@ I'm always willing to meet other developers, send me an email or an invitation t
 
 ### Working on:
 
-I'm currently working at [Legaroo](https://app.legaroo.com/) where I'm helping to build and maintain a legal assistance platform for travelers to get legal support wherever they may roam. ;)
+I'm currently working at [PulpoWMS](https://www.pulpowms.com/) where I'm helping to build an awesome Warehouse Management System.
 </center>
