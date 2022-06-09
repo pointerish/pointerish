@@ -11,8 +11,7 @@
 ![Backend](https://img.shields.io/badge/Backend-black)
 ![Elixir](https://img.shields.io/badge/Elixir-purple)
 ![Phoenix](https://img.shields.io/badge/Phoenix-orange)
-![Python](https://img.shields.io/badge/Python-blue)
-![Python](https://img.shields.io/badge/Django-green)
+![Erlang](https://img.shields.io/badge/Erlang-blue)
 [![Hub followers](https://img.shields.io/github/followers/pointerish.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/pointerish?tab=followers)
 <img src="https://komarev.com/ghpvc/?username=pointerish" alt="pointerish" />
 <br />
