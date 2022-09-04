@@ -28,8 +28,4 @@ I'm always willing to meet other people, send me an email or an invitation to co
    <img src="https://img.shields.io/badge/Email%20-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge">
   </a>
  </p>
-
-### Working on:
-
-I'm currently working at [PulpoWMS](https://www.pulpowms.com/) where I'm helping to build an awesome Warehouse Management System.
 </center>
