@@ -3,12 +3,14 @@
 </h2>
 <center>
 <li>Backend Developer</li>
-<li>Big Elixir and Erlang evangelist</li>
+<li>Big Python, Elixir and Erlang fan</li>
 <li>Doomed Emacs fanboy</li>
 <li>Musician and chess enthusiast depending on the mood</li>
+<li>Aspiring luthier</li>
 </br></br>
 
 ![Backend](https://img.shields.io/badge/Backend-black)
+![Python](https://img.shields.io/badge/Python-yellow-blue)
 ![Elixir](https://img.shields.io/badge/Elixir-purple)
 ![Phoenix](https://img.shields.io/badge/Phoenix-orange)
 ![Erlang](https://img.shields.io/badge/Erlang-blue)
