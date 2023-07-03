@@ -3,10 +3,9 @@
 </h2>
 <center>
 <li>Backend Developer</li>
-<li>Big Python, Elixir and Erlang fan</li>
-<li>Doomed Emacs fanboy</li>
+<li>Big Python fan</li>
 <li>Musician and chess enthusiast depending on the mood</li>
-<li>Aspiring luthier</li>
+<li>Aspiring furniture maker</li>
 </br></br>
 
 ![Backend](https://img.shields.io/badge/Backend-black)
