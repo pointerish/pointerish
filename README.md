@@ -3,9 +3,9 @@
 </h2>
 <center>
 <li>Backend Developer</li>
-<li>Big Python fan</li>
+<li>Big Elixir and Python enthusiast</li>
 <li>Musician and chess enthusiast depending on the mood</li>
-<li>Aspiring furniture maker</li>
+<li>Aspiring tool maker. Hand planes, saws, all the nice stuff. Woodworker too!</li>
 </br></br>
 
 ![Backend](https://img.shields.io/badge/Backend-black)
